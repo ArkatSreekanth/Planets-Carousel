@@ -1,0 +1,18 @@
+.planets-bg-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
+
+.carousel-container {
+  width: 75vw;
+  margin: auto;
+}
+
+.main-heading {
+  color: #05acff;
+  margin-bottom: 0px;
+}
